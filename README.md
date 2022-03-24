@@ -1,6 +1,6 @@
 # Flutter Counter 🔮
 
-How far you can go? Try the app and test your limits! 🏃
+How far you can go? Try the app and test your limits! 🏃❗
 
 ## Getting Started
 
