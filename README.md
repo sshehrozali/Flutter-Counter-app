@@ -1,6 +1,6 @@
-# coolapp
+# Flutter Counter 🔮
 
-A new Flutter project.
+How far you can go? Try the app and test your limits! 🏃
 
 ## Getting Started
 
